@@ -1,0 +1,16 @@
+server:
+  port: 9002
+
+spring:
+  application:
+    name: nacos-payment-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 # 自动注册到本地的nacos服务中心
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'  #监控
