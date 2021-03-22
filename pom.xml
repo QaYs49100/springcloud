@@ -25,6 +25,7 @@
         <module>cloudalibaba-provider-payment9002</module>
         <module>cloudalibaba-consumer-nacos-order83</module>
         <module>cloudalibaba-config-nacos-client3377</module>
+<!--        <module>SpringBootJSR303</module>-->
     </modules>
 
     <!--  SpringCloud  pom 总工程   -->

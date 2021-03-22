@@ -1,7 +1,7 @@
 package com.baidu.springcloud.service;
 
 import com.baidu.springcloud.dto.CommontResult;
-import com.baidu.springcloud.pojo.Payment;
+import com.baidu.springcloud.dot.Payment;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.GetMapping;

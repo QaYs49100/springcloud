@@ -1,4 +1,4 @@
-package com.baidu.springcloud.pojo;
+package com.baidu.springcloud.dot;
 
 import java.io.Serializable;
 

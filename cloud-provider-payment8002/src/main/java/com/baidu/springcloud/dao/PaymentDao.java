@@ -1,6 +1,6 @@
 package com.baidu.springcloud.dao;
 
-import com.baidu.springcloud.pojo.Payment;
+import com.baidu.springcloud.dot.Payment;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 

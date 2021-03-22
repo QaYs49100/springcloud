@@ -1,6 +1,6 @@
 package com.baidu.springcloud.service;
 
-import com.baidu.springcloud.pojo.Payment;
+import com.baidu.springcloud.dot.Payment;
 import org.apache.ibatis.annotations.Param;
 
 public interface PaymentService {

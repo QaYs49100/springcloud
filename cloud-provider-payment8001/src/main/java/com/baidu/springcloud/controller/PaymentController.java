@@ -1,7 +1,7 @@
 package com.baidu.springcloud.controller;
 
 import com.baidu.springcloud.dto.CommontResult;
-import com.baidu.springcloud.pojo.Payment;
+import com.baidu.springcloud.dot.Payment;
 import com.baidu.springcloud.service.PaymentService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

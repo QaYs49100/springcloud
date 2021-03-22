@@ -1,7 +1,7 @@
 package com.baidu.springcloud.service.serviceimpl;
 
 import com.baidu.springcloud.dao.PaymentDao;
-import com.baidu.springcloud.pojo.Payment;
+import com.baidu.springcloud.dot.Payment;
 import com.baidu.springcloud.service.PaymentService;
 import org.springframework.stereotype.Service;
 
